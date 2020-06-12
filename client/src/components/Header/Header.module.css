@@ -1,0 +1,10 @@
+.logo {
+    max-height: 300px;
+    max-width: 300px;
+}
+
+.itemCenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
